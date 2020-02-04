@@ -4,7 +4,7 @@ This code has used to make predictions of the Oceanic Niño Index using the neur
 
 Reference:
 
-The codes in this repository it's on the following articles:
+The codes in this repository it's based on the following articles:
 
 https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/
 
